@@ -23,19 +23,19 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "7479227005:AAEHDWOhE6HI4y2MFzk14vVtoMZ_2oOV3_w"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "29201763"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "10d0e463862b3d0e4c2441aa70b73c8f"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": ""
+      "value": "5300021755"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
@@ -53,7 +53,7 @@
     },
     "LAZY_DEVELOPER": {
       "description": "Give ADMIN id in this field ",
-      "value": "",
+      "value": "5300021755",
       "required": true
     }
   },
